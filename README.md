@@ -67,11 +67,12 @@ Lower temperature ~ Lower variance
 - For Llama 8B, prompting performance is high enough, and room for improvement is small 
 - Based on efficiency and performance, Llama 3B is the overall top performer
 
+
+
+
+<img width="533" height="116" alt="image" src="https://github.com/user-attachments/assets/e1371bd5-2ab1-4055-87a1-a43f5c82173c" />
+
   
-<img width="697" height="82" alt="image" src="https://github.com/user-attachments/assets/45651579-a3bf-434e-9341-7978dbf4378b" />
-
-
-<img width="332" height="60" alt="image" src="https://github.com/user-attachments/assets/f758a1d3-a373-4323-8df1-559aace4f1ec" />
 
 **HourLLM**
 - Scrapper scrapes the contents of the food pantry webpages and collects HTML of the relevant pages
