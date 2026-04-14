@@ -36,9 +36,16 @@ This project addresses these challenges by combining structured evaluation and e
 - Supervised finetuning using LoRA 
 - Cross-validated with hyperparameters rank and alpha of LoRA
 
+  Example:
+  Input:
+  M-F 8.30-11.30
+  Oytout: 
+<img width="272" height="51" alt="image" src="https://github.com/user-attachments/assets/05b39b74-d926-4cf2-97cd-bf002421263a" />
+
+
 **HourLLM**
 - Scrapper scrapes the contents of the food pantry webpages and collects HTML of the relevant pages
 - Supervised Finetuned (SFT) LLM takes the HTML text as context and the actual hours as correct labels
 - LoRA finetuning is appliedwith crossvalidation using hyperparameters ( alpha and rank)
-- Reinforcement learning with Human Feedback (RLHF) and Direct PReference Optimization (DPO) was used to further finetune the SFT model
+- Reinforcement learning with Human Feedback (RLHF) and Direct Preference Optimization (DPO) was used to further finetune the SFT model
 ### Pipeline
