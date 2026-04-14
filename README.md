@@ -35,4 +35,10 @@ This project addresses these challenges by combining structured evaluation and e
 - Benchmarked against Prompt engineering with 2 examples in Prompt
 - Supervised finetuning using LoRA 
 - Cross-validated with hyperparameters rank and alpha of LoRA
+
+**HourLLM**
+- Scrapper scrapes the contents of the food pantry webpages and collects HTML of the relevant pages
+- Supervised Finetuned (SFT) LLM takes the HTML text as context and the actual hours as correct labels
+- LoRA finetuning is appliedwith crossvalidation using hyperparameters ( alpha and rank)
+- Reinforcement learning with Human Feedback (RLHF) and Direct PReference Optimization (DPO) was used to further finetune the SFT model
 ### Pipeline
