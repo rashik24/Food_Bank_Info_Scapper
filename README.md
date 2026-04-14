@@ -39,6 +39,9 @@ This project addresses these challenges by combining structured evaluation and e
   Example:
   Input:
 <img width="135" height="39" alt="image" src="https://github.com/user-attachments/assets/f005cfef-09c0-4aa0-b8e3-cd0fd7447c50" />
+
+
+
   Output: 
 <img width="272" height="51" alt="image" src="https://github.com/user-attachments/assets/05b39b74-d926-4cf2-97cd-bf002421263a" />
 
