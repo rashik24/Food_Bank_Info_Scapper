@@ -28,4 +28,11 @@ This project addresses these challenges by combining structured evaluation and e
 
 ## ⚙️ Methodology
 
+**JSONLLM**
+
+- Takes hours in free text format as input and produces JSON structures for better parsing
+- Uses Llama 3.2 3B and 8B parameters
+- Benchmarked against Prompt engineering with 2 examples in Prompt
+- Supervised finetuning using LoRA 
+- Cross-validated with hyperparameters rank and alpha of LoRA
 ### Pipeline
