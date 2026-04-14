@@ -56,25 +56,8 @@ Performance Metric:
 **Results**
 **JSONLLM
 Prompting Results**
-Model
-Temperature
-Mean Window Accuracy (%)
-Time (s)
-Llama 3.2 3B
-0.1
-82.25
-4,127
-0.7
-75.53
-3,220
-Llama 3.2 8B
-0.1
-90.22
-8,275
-0.7
-87.22
-7,808
 <img width="536" height="136" alt="image" src="https://github.com/user-attachments/assets/27670d49-065c-4e42-b53e-c10d08cca2e9" />
+
 
 
 **HourLLM**
