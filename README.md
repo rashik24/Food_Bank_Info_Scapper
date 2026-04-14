@@ -79,4 +79,7 @@ Lower temperature ~ Lower variance
 - Supervised Finetuned (SFT) LLM takes the HTML text as context and the actual hours as correct labels
 - LoRA finetuning is appliedwith crossvalidation using hyperparameters ( alpha and rank)
 - Reinforcement learning with Human Feedback (RLHF) and Direct Preference Optimization (DPO) was used to further finetune the SFT model
-### Pipeline
+**SFT Model Performance for Llama 3B**
+  <img width="327" height="260" alt="image" src="https://github.com/user-attachments/assets/dcd45e5f-431b-4df8-b289-f131dec6b3bb" />
+
+
