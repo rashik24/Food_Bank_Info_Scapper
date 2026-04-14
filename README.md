@@ -62,11 +62,12 @@ Prompting Results**
 - Lower temperature yields better accuracy.
 Lower temperature ~ Lower variance
 
-**Fine-tuning Results
-**
+**Fine-tuning Results**
 - The fine-tuned Qwen 500M model produces comparable results to Llama 8 B Prompting. 
 - For Llama 8B, prompting performance is high enough, and room for improvement is small 
 - Based on efficiency and performance, Llama 3B is the overall top performer
+
+  
 <img width="697" height="82" alt="image" src="https://github.com/user-attachments/assets/45651579-a3bf-434e-9341-7978dbf4378b" />
 
 
